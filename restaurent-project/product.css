@@ -1,0 +1,55 @@
+body {
+    text-align: right;
+    font-style: initial;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+table {
+    width: 70%;
+    height: 300px;
+    border: 1px solid black;
+    margin-left: 20%;
+    margin-top: 10%;
+    border-radius: 10px;
+}
+
+td,
+th {
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 10px;
+    width: auto;
+    background-color: #3e8e41;
+    color: white;
+}
+
+input {
+    border: 1px solid #3e8e41;
+    background-color: #3e8e41;
+    color: black;
+    text-align: center;
+    width: 2%;
+    height: 50.5px;
+    padding: 10px;
+    font-size: large;
+    border-radius: 10px;
+}
+
+h2 {
+    width: auto;
+    margin-top: 10%;
+    margin-right: 10%;
+
+
+
+}
+
+#bb {
+    border: none;
+}
+
+input {
+    height: auto;
+    width: auto;
+    border: 1px solid wheat;
+}

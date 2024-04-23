@@ -1,0 +1,101 @@
+body {
+    text-align: right;
+    padding-top: 10%;
+    padding-right: 4%;
+    font-style: initial;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button {
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 3px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+    padding: 10px;
+    width: 100%;
+    font-style: initial;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 30%;
+    margin-right: 30%;
+    margin-top: 10%;
+}
+
+form {
+    margin-top: 7%;
+    background-color: #4CAF50;
+    height: 490px;
+    width: 45%;
+    margin-left: 20%;
+    border-radius: 5%;
+    padding-right: 5%;
+    font-style: initial;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-image: url(img/cd27bc8b1407529a6ce68db385179597.jpg);
+    visibility: hidden;
+    background-repeat: no-repeat;
+
+}
+
+label {
+    text-align: start;
+    padding-top: 5%;
+    font-style: initial;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: transparent;
+    backdrop-filter: blur(5px);
+    font-size: larger;
+    cursor: pointer;
+
+}
+
+input {
+    margin-top: 10px;
+    transform: translate(-35%);
+    width: 35%;
+    height: 22.5px;
+    padding: 3px;
+    font-style: initial;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: transparent;
+    backdrop-filter: blur(2.5px);
+    color: aliceblue;
+    cursor: pointer;
+    font-size: large;
+}
+
+.list {
+    width: 30%;
+    height: 100px;
+    background-color: white;
+    border: 2px solid #4CAF50;
+    margin-left: 60%;
+
+
+}
+
+.price {
+    width: 15%;
+    height: 40px;
+    background-color: #fff;
+    border: 2px solid #4CAF50;
+    margin-left: 70%;
+}
+
+button:hover {
+    padding: 12px;
+    background-color: black;
+    color: white;
+
+}
+
+h2 {
+    visibility: hidden;
+}
+
+.confirm {
+    border: 1px solid white;
+    transform: translate(-95%);
+}
